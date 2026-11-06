@@ -1,53 +1,53 @@
-```html
-<!-- ===================== HEADER ===================== -->
+```markdown
+<!-- ========================================= -->
+<!--             DAOUDA SAVADOGO               -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,40:0353A4,100:00A896&height=230&section=header&text=DAOUDA%20SAVADOGO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=GREEN%20HYDROGEN%20%7C%20ENERGY%20ECONOMICS%20%7C%20SUSTAINABLE%20DEVELOPMENT&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Daouda Savadogo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:00A896&height=220&section=header&text=DAOUDA%20SAVADOGO&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Daouda Savadogo"/>
 </p>
 
-<!-- ===================== INTRODUCTION ===================== -->
+<h3 align="center">
+  MSc in Economics, Policies, Infrastructure and Green Hydrogen Technology
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=3000&pause=1000&color=00A896&center=true&vCenter=true&width=850&lines=MSc+in+Green+Hydrogen+Technology;BSc+in+Science+and+Technology+%28Chemistry%29;Exploring+the+Future+of+Sustainable+Energy;Connecting+Technology%2C+Economics+and+Infrastructure" alt="Introduction"/>
+  <strong>BSc in Science and Technology (Chemistry)</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daouda-savadogo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/savadogodaouda2000">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-GREEN%20HYDROGEN-008F83?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BACKGROUND-CHEMISTRY-2463A6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/INTEREST-ENERGY%20ECONOMICS-8A5CC2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/VISION-SUSTAINABLE%20AFRICA-27864B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GREEN%20HYDROGEN-Technology-008F83?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CHEMISTRY-Science-2463A6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ENERGY%20ECONOMICS-Research-8A5CC2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SUSTAINABLE%20ENERGY-Future-27864B?style=flat-square"/>
 </p>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+## 👋 About Me
 
-## 👨‍🎓 About Me
-
-Hello! I am **Daouda SAVADOGO**, with an academic background in Science and Technology, specialising in Chemistry, and currently pursuing a Master's degree in:
+Hello! I am **Daouda SAVADOGO**, with a Bachelor's degree in Science and Technology, specialising in Chemistry, and pursuing a Master's degree in:
 
 **Economics, Policies, Infrastructure and Green Hydrogen Technology.**
 
-My academic journey brings together scientific knowledge, technological innovation, economic analysis and energy policy.
+My academic background combines scientific knowledge, technological innovation, economic analysis and energy policies.
 
 I am particularly interested in understanding how green hydrogen and renewable energy technologies can contribute to energy security, industrial development, economic growth and sustainable development.
 
-I believe that Africa has significant potential to become an important player in the global energy transition through the responsible development of its renewable energy resources and green hydrogen industry.
+I believe that Africa has significant potential to become an important player in the global energy transition through the development of its renewable energy resources and green hydrogen industry.
 
-**My vision is to contribute to a sustainable energy future by connecting scientific innovation, economic opportunities, infrastructure development and effective energy policies.**
+**My ambition is to contribute to a sustainable energy future by connecting scientific innovation, economic opportunities, infrastructure development and effective energy policies.**
 
 ---
-
-<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Academic Background
 
@@ -58,8 +58,6 @@ I believe that Africa has significant potential to become an important player in
 
 ---
 
-<!-- ===================== RESEARCH INTERESTS ===================== -->
-
 ## 🔬 Research Interests
 
 ### 1. Green Hydrogen Technology
@@ -68,8 +66,8 @@ I believe that Africa has significant potential to become an important player in
 - Alkaline Water Electrolysis (AWE).
 - Proton Exchange Membrane (PEM) electrolysis.
 - Solid Oxide Electrolysis Cells (SOEC).
-- Hydrogen storage, transportation and distribution.
-- Hydrogen applications in industry, electricity and mobility.
+- Hydrogen storage and transportation.
+- Hydrogen applications in industry and energy systems.
 - Power-to-X technologies.
 
 ### 2. Renewable Energy Systems
@@ -78,7 +76,7 @@ I believe that Africa has significant potential to become an important player in
 - Wind energy technologies.
 - Renewable electricity generation.
 - Renewable energy integration into hydrogen production.
-- Energy storage and hybrid energy systems.
+- Energy storage systems.
 - Renewable energy development in Africa.
 
 ### 3. Energy Economics and Policies
@@ -111,93 +109,86 @@ I believe that Africa has significant potential to become an important player in
 
 ---
 
-<!-- ===================== HYDROGEN VALUE CHAIN ===================== -->
-
-## ⚡ Understanding the Green Hydrogen Value Chain
+## ⚡ Green Hydrogen Production Pathway
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-RENEWABLE%20ENERGY-FFC857?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/02-ELECTROLYSIS-00A896?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/03-HYDROGEN%20PRODUCTION-0353A4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/04-STORAGE%20%26%20TRANSPORT-7655A5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/05-END%20USES-27864B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/01-RENEWABLE%20ENERGY-F0B429?style=for-the-badge" alt="Renewable Energy"/>
+  <img src="https://img.shields.io/badge/02-ELECTROLYSIS-00A896?style=for-the-badge" alt="Electrolysis"/>
+  <img src="https://img.shields.io/badge/03-HYDROGEN-0353A4?style=for-the-badge" alt="Hydrogen"/>
+  <img src="https://img.shields.io/badge/04-STORAGE-7655A5?style=for-the-badge" alt="Storage"/>
 </p>
 
 ```text
-       SOLAR ENERGY       WIND ENERGY
-             \               /
-              \             /
-               ▼           ▼
+       SOLAR ENERGY          WIND ENERGY
+             \                  /
+              \                /
+               ▼              ▼
              RENEWABLE ELECTRICITY
                        |
                        ▼
                 WATER ELECTROLYSIS
                        |
-                ┌──────┴──────┐
-                ▼             ▼
-           HYDROGEN (H₂)   OXYGEN (O₂)
-                |
-                ▼
-          GREEN HYDROGEN
-                |
-       ┌────────┼─────────┐
-       ▼        ▼         ▼
+                 ┌─────┴─────┐
+                 ▼           ▼
+             HYDROGEN      OXYGEN
+               (H2)          (O2)
+                 |
+                 ▼
+           GREEN HYDROGEN
+                 |
+       ┌─────────┼─────────┐
+       ▼         ▼         ▼
     INDUSTRY  MOBILITY  ENERGY STORAGE
-       |
-       ▼
-  SUSTAINABLE ENERGY SYSTEM
+                 |
+                 ▼
+       SUSTAINABLE ENERGY SYSTEM
 ```
 
 ---
 
-<!-- ===================== TECHNICAL INTERESTS ===================== -->
-
 ## 🧪 Technical Areas of Interest
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chemistry-Scientific%20Foundation-2463A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electrochemistry-Energy%20Conversion-008F83?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electrolysis-Hydrogen%20Production-0353A4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Solar%20PV-Renewable%20Energy-E3A72F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Energy%20Economics-Policy%20Analysis-7655A5?style=for-the-badge"/>
-</p>
+| Area | Main Topics |
+|:---|:---|
+| Chemistry | Chemical processes and materials |
+| Electrochemistry | Electrochemical reactions and energy conversion |
+| Electrolysis | Hydrogen production technologies |
+| Solar Energy | Photovoltaic systems |
+| Renewable Energy | Solar and wind integration |
+| Energy Economics | Economic analysis and energy markets |
+| Energy Policies | Energy strategies and governance |
+| Infrastructure | Hydrogen storage, transport and distribution |
 
 ---
-
-<!-- ===================== DIGITAL TOOLS ===================== -->
 
 ## 💻 Digital and Research Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-<!-- ===================== AFRICAN ENERGY VISION ===================== -->
-
 ## 🌍 Green Hydrogen and Africa
 
-Africa possesses considerable renewable energy resources and opportunities for developing a sustainable hydrogen economy.
+Africa has considerable renewable energy resources and opportunities for developing a sustainable hydrogen economy.
 
-I am particularly interested in:
+My interests include:
 
 - Assessing Africa's green hydrogen production potential.
-- Exploring opportunities for hydrogen development in West Africa.
+- Exploring hydrogen development opportunities in West Africa.
 - Understanding the economic competitiveness of green hydrogen.
 - Analysing investment opportunities in hydrogen infrastructure.
 - Studying the role of energy policies in accelerating the energy transition.
 - Exploring how green hydrogen can support industrialisation and energy security.
 
-**I believe that green hydrogen can become an important driver of sustainable industrial and economic development in Africa.**
+**I believe green hydrogen can become an important driver of sustainable industrial and economic development in Africa.**
 
 ---
-
-<!-- ===================== LANGUAGES ===================== -->
 
 ## 🌐 Languages
 
@@ -206,26 +197,9 @@ I am particularly interested in:
 
 ---
 
-<!-- ===================== GITHUB PROFILE ===================== -->
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=savadogodaouda2000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savadogodaouda2000&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=savadogodaouda2000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
 ## 🎯 Current Academic Focus
 
-My current academic focus is centred on the relationship between:
+My academic interests are centred on the relationship between:
 
 - Green hydrogen technologies.
 - Energy economics and investment.
@@ -237,8 +211,6 @@ My current academic focus is centred on the relationship between:
 I aim to deepen my understanding of the technical, economic and institutional conditions required to develop viable green hydrogen projects, particularly in emerging economies.
 
 ---
-
-<!-- ===================== CONTACT ===================== -->
 
 ## 📫 Let's Connect
 
@@ -261,12 +233,14 @@ I welcome academic discussions, professional exchanges and opportunities for col
 </p>
 
 <p align="center">
-  <strong>📍 Connecting Chemistry, Green Hydrogen, Economics and Sustainable Energy.</strong>
+  <strong>CHEMISTRY | GREEN HYDROGEN | ENERGY ECONOMICS | SUSTAINABLE DEVELOPMENT</strong>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <em>Contributing to a cleaner and more sustainable energy future.</em>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,40:0353A4,100:00A896&height=130&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:00A896&height=120&section=footer" width="100%" alt="Footer"/>
 </p>
 ```
