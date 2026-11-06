@@ -1,194 +1,188 @@
-```markdown
-<!-- ========================================= -->
-<!--             DAOUDA SAVADOGO               -->
-<!-- ========================================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:00A896&height=220&section=header&text=DAOUDA%20SAVADOGO&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Daouda Savadogo"/>
-</p>
-
-<h3 align="center">
-  MSc in Economics, Policies, Infrastructure and Green Hydrogen Technology
-</h3>
-
-<p align="center">
-  <strong>BSc in Science and Technology (Chemistry)</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0E7490,100:0F766E&height=220&section=header&text=SAVADOGO%20Daouda&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Green%20Hydrogen%20Technology%20%7C%20Chemistry%20%7C%20Sustainable%20Energy&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Savadogo Daouda"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daouda-savadogo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=0A66C2&center=true&vCenter=true&width=820&lines=Master's+student+in+Green+Hydrogen;Chemistry+and+Energy+Technologies;Interested+in+Renewable+Energy;Exploring+Sustainable+Energy+Solutions+for+Africa" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/savadogodaouda2000">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GREEN%20HYDROGEN-Technology-008F83?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CHEMISTRY-Science-2463A6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ENERGY%20ECONOMICS-Research-8A5CC2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SUSTAINABLE%20ENERGY-Future-27864B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FIELD-GREEN%20HYDROGEN-117A72?style=for-the-badge" alt="Green Hydrogen"/>
+  <img src="https://img.shields.io/badge/BACKGROUND-CHEMISTRY-0A66C2?style=for-the-badge" alt="Chemistry"/>
+  <img src="https://img.shields.io/badge/FOCUS-SUSTAINABLE%20ENERGY-2EA44F?style=for-the-badge" alt="Sustainable Energy"/>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#education">Education</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#research-interests">Research interests</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#languages">Languages</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
+
+<a name="about"></a>
 
 ## 👋 About Me
 
-Hello! I am **Daouda SAVADOGO**, with a Bachelor's degree in Science and Technology, specialising in Chemistry, and pursuing a Master's degree in:
+Hello! I am **Savadogo Daouda**, a graduate in Chemistry and a Master's student in the field of **Green Hydrogen Technology**.
 
-**Economics, Policies, Infrastructure and Green Hydrogen Technology.**
+My academic interests focus on the development of sustainable energy technologies, particularly green hydrogen production, renewable energy systems, and the role of hydrogen in the global energy transition.
 
-My academic background combines scientific knowledge, technological innovation, economic analysis and energy policies.
+I am interested in understanding how scientific research, technological innovation, infrastructure development and energy policies can contribute to a cleaner and more sustainable future.
 
-I am particularly interested in understanding how green hydrogen and renewable energy technologies can contribute to energy security, industrial development, economic growth and sustainable development.
+**My main objective is to contribute to the development of sustainable energy solutions, especially in Africa.**
 
-I believe that Africa has significant potential to become an important player in the global energy transition through the development of its renewable energy resources and green hydrogen industry.
-
-**My ambition is to contribute to a sustainable energy future by connecting scientific innovation, economic opportunities, infrastructure development and effective energy policies.**
-
----
-
-## 🎓 Academic Background
-
-| Degree | Field of Study |
-|:---|:---|
-| **MSc** | Economics, Policies, Infrastructure and Green Hydrogen Technology |
-| **BSc** | Science and Technology (Chemistry) |
-
----
-
-## 🔬 Research Interests
-
-### 1. Green Hydrogen Technology
-
-- Green hydrogen production through water electrolysis.
-- Alkaline Water Electrolysis (AWE).
-- Proton Exchange Membrane (PEM) electrolysis.
-- Solid Oxide Electrolysis Cells (SOEC).
-- Hydrogen storage and transportation.
-- Hydrogen applications in industry and energy systems.
-- Power-to-X technologies.
-
-### 2. Renewable Energy Systems
-
-- Solar photovoltaic energy.
-- Wind energy technologies.
-- Renewable electricity generation.
-- Renewable energy integration into hydrogen production.
-- Energy storage systems.
-- Renewable energy development in Africa.
-
-### 3. Energy Economics and Policies
-
-- Economics of green hydrogen production.
-- Energy markets and energy security.
-- Renewable energy policies.
-- Investment and financing of hydrogen projects.
-- Economic feasibility of energy technologies.
-- Energy transition strategies.
-- International energy cooperation.
-
-### 4. Hydrogen Infrastructure
-
-- Hydrogen production infrastructure.
-- Hydrogen storage and transportation systems.
-- Hydrogen distribution networks.
-- Hydrogen refuelling infrastructure.
-- Industrial applications and infrastructure planning.
-- Development of hydrogen value chains in Africa.
-
-### 5. Chemistry and Materials Science
-
-- Electrochemistry.
-- Chemical reaction processes.
-- Materials for energy applications.
-- Corrosion and materials durability.
-- Photovoltaic and semiconductor materials.
-- Chemical processes for sustainable technologies.
-
----
-
-## ⚡ Green Hydrogen Production Pathway
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-RENEWABLE%20ENERGY-F0B429?style=for-the-badge" alt="Renewable Energy"/>
-  <img src="https://img.shields.io/badge/02-ELECTROLYSIS-00A896?style=for-the-badge" alt="Electrolysis"/>
-  <img src="https://img.shields.io/badge/03-HYDROGEN-0353A4?style=for-the-badge" alt="Hydrogen"/>
-  <img src="https://img.shields.io/badge/04-STORAGE-7655A5?style=for-the-badge" alt="Storage"/>
-</p>
-
-```text
-       SOLAR ENERGY          WIND ENERGY
-             \                  /
-              \                /
-               ▼              ▼
-             RENEWABLE ELECTRICITY
-                       |
-                       ▼
-                WATER ELECTROLYSIS
-                       |
-                 ┌─────┴─────┐
-                 ▼           ▼
-             HYDROGEN      OXYGEN
-               (H2)          (O2)
-                 |
-                 ▼
-           GREEN HYDROGEN
-                 |
-       ┌─────────┼─────────┐
-       ▼         ▼         ▼
-    INDUSTRY  MOBILITY  ENERGY STORAGE
-                 |
-                 ▼
-       SUSTAINABLE ENERGY SYSTEM
+```yaml
+name: Savadogo Daouda
+academic_background: Chemistry
+current_field: Green Hydrogen Technology
+main_interests:
+  - Green Hydrogen
+  - Renewable Energy
+  - Electrochemistry
+  - Sustainable Infrastructure
+  - Energy Transition
+  - Climate Change
 ```
 
 ---
 
-## 🧪 Technical Areas of Interest
+<a name="education"></a>
 
-| Area | Main Topics |
+## 🎓 Education
+
+My academic background combines chemistry and energy-related studies.
+
+| Qualification | Field |
 |:---|:---|
-| Chemistry | Chemical processes and materials |
-| Electrochemistry | Electrochemical reactions and energy conversion |
-| Electrolysis | Hydrogen production technologies |
-| Solar Energy | Photovoltaic systems |
-| Renewable Energy | Solar and wind integration |
-| Energy Economics | Economic analysis and energy markets |
-| Energy Policies | Energy strategies and governance |
-| Infrastructure | Hydrogen storage, transport and distribution |
+| Master's studies | Green Hydrogen Technology |
+| Bachelor's degree | Chemistry |
 
 ---
 
-## 💻 Digital and Research Tools
+<a name="experience"></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+## 💼 Experience and Academic Activities
+
+My academic activities and interests include:
+
+- Studying chemical and electrochemical processes.
+- Understanding hydrogen production technologies.
+- Exploring renewable energy systems.
+- Analysing sustainable energy development.
+- Studying the relationship between energy, infrastructure and economic development.
+- Exploring green hydrogen opportunities in Africa.
+
+---
+
+<a name="research-interests"></a>
+
+## 🔬 Research Interests
+
+My main research interests are:
+
+### 🌱 1. Green Hydrogen
+
+- Green hydrogen production through water electrolysis.
+- Alkaline water electrolysis.
+- Proton Exchange Membrane (PEM) electrolysis.
+- Solid Oxide Electrolysis Cells (SOEC).
+- Hydrogen storage and transportation.
+- Hydrogen applications in industry and energy systems.
+
+### ☀️ 2. Renewable Energy
+
+- Solar photovoltaic energy.
+- Wind energy.
+- Renewable electricity generation.
+- Integration of renewable energy into hydrogen production.
+- Energy storage technologies.
+
+### 🧪 3. Chemistry and Materials Science
+
+- Electrochemistry.
+- Chemical reactions and processes.
+- Materials for energy applications.
+- Corrosion and materials durability.
+- Semiconductor and photovoltaic materials.
+
+### 🌍 4. Sustainable Energy Development
+
+- Energy transition in Africa.
+- Energy security.
+- Climate change mitigation.
+- Sustainable infrastructure.
+- Green hydrogen policies and economic opportunities.
+
+### Green Hydrogen Production Pathway
+
+```text
+       SOLAR / WIND ENERGY
+               |
+               ▼
+      RENEWABLE ELECTRICITY
+               |
+               ▼
+        WATER ELECTROLYSIS
+               |
+         ┌─────┴─────┐
+         ▼           ▼
+    HYDROGEN       OXYGEN
+      (H₂)          (O₂)
+         |
+         ▼
+  GREEN HYDROGEN
+         |
+   ┌─────┼─────────────┐
+   ▼     ▼             ▼
+Industry Energy      Transport
+        Storage
+```
+
+---
+
+<a name="skills"></a>
+
+## 🧰 Skills
+
+### Technical and Digital Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Chemistry-Scientific%20Knowledge-blue?style=flat-square" alt="Chemistry"/>
+  <img src="https://img.shields.io/badge/Green%20Hydrogen-Energy%20Technology-117A72?style=flat-square" alt="Green Hydrogen"/>
+  <img src="https://img.shields.io/badge/Renewable%20Energy-Sustainable%20Development-2EA44F?style=flat-square" alt="Renewable Energy"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
----
+### Core Competencies
 
-## 🌍 Green Hydrogen and Africa
-
-Africa has considerable renewable energy resources and opportunities for developing a sustainable hydrogen economy.
-
-My interests include:
-
-- Assessing Africa's green hydrogen production potential.
-- Exploring hydrogen development opportunities in West Africa.
-- Understanding the economic competitiveness of green hydrogen.
-- Analysing investment opportunities in hydrogen infrastructure.
-- Studying the role of energy policies in accelerating the energy transition.
-- Exploring how green hydrogen can support industrialisation and energy security.
-
-**I believe green hydrogen can become an important driver of sustainable industrial and economic development in Africa.**
+- Scientific research and analysis.
+- Problem-solving.
+- Critical thinking.
+- Academic writing.
+- Technical communication.
+- Scientific presentation.
+- Continuous learning.
 
 ---
+
+<a name="languages"></a>
 
 ## 🌐 Languages
 
@@ -197,50 +191,52 @@ My interests include:
 
 ---
 
+<a name="focus"></a>
+
 ## 🎯 Current Academic Focus
 
-My academic interests are centred on the relationship between:
+I am particularly interested in exploring the potential of green hydrogen as an important component of the future energy system.
 
-- Green hydrogen technologies.
-- Energy economics and investment.
-- Energy policies and governance.
-- Hydrogen infrastructure development.
-- Renewable energy integration.
-- Sustainable economic development.
+My current areas of focus include:
 
-I aim to deepen my understanding of the technical, economic and institutional conditions required to develop viable green hydrogen projects, particularly in emerging economies.
+- Understanding hydrogen production technologies.
+- Studying the efficiency of water electrolysis.
+- Exploring renewable energy integration.
+- Understanding hydrogen infrastructure and storage.
+- Analysing green hydrogen development opportunities in Africa.
+- Exploring the economic and environmental benefits of the hydrogen economy.
 
 ---
 
-## 📫 Let's Connect
+<a name="contact"></a>
 
-I welcome academic discussions, professional exchanges and opportunities for collaboration in the fields of:
+## 📫 Contact
+
+I am open to academic discussions, scientific collaborations and professional exchanges related to:
 
 - Green Hydrogen Technology.
-- Renewable Energy.
 - Chemistry and Electrochemistry.
-- Energy Economics and Policies.
-- Hydrogen Infrastructure.
+- Renewable Energy.
 - Sustainable Development.
+- Energy Transition in Africa.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daouda-savadogo">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
-  <a href="https://github.com/savadogodaouda2000">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <strong>CHEMISTRY | GREEN HYDROGEN | ENERGY ECONOMICS | SUSTAINABLE DEVELOPMENT</strong>
-</p>
+---
 
 <p align="center">
+  <strong>🌱 CHEMISTRY | GREEN HYDROGEN | RENEWABLE ENERGY | SUSTAINABLE DEVELOPMENT</strong>
+  <br/>
   <em>Contributing to a cleaner and more sustainable energy future.</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:00A896&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:0A66C2&height=120&section=footer" width="100%" alt="Footer"/>
 </p>
-```
