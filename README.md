@@ -40,8 +40,10 @@ I am interested in how science, technology and good policy can work together to 
 
 | Level | Field | Institution | Period |
 |:---|:---|:---|:---|
-| Master's | Green Hydrogen Technology | *Your university* | *20XX – present* |
-| Bachelor's | Chemistry | *Your university* | *20XX – 20XX* |
+| **Master's** | Energy and Green Hydrogen Technology — *Photovoltaic and System Analysis* | WASCAL IMP-EGH, Abdou Moumouni University, Niamey, Niger | 2025 – present |
+| **Bachelor's** | Chemistry | Joseph KI-ZERBO University, Ouagadougou, Burkina Faso | 2020 – 2022 |
+
+**Master's focus:** PV systems, Power-to-X, electrolysis, hydrogen safety, energy-system modelling.
 
 ---
 
